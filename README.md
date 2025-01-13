@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munde006
 - 👀 I’m interested in music and novels
-- 🌱 I’m currently learning AWS Cloud Computing at alx_africa
+- 🌱 Currently learning Front End Web Development at alx_africa
 - 💞️ I’m looking to collaborate on making the world a better place through tech
 - 📫 How to reach me: mundeimmaculate4@gmail.com
 - 😄 Pronouns: she
