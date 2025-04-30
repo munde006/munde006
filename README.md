@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @munde006
-- 👀 I’m interested in music and novels
+- 👀 I’m interested in music and nature
 - 🌱 Currently learning Front End Web Development at alx_africa
 - 💞️ I’m looking to collaborate on making the world a better place through tech
-- 📫 How to reach me: mundeimmaculate4@gmail.com
-- 😄 Pronouns: she
-- ⚡ Fun fact: I love hiking!
+- 📫 How to reach me: immaculatemunde@gmail.com
+- 😄 Pronouns: she/ her
+- ⚡ Fun fact: I love hiking, trying new recipes, and listening to music.
 
 <!---
 munde006/munde006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
