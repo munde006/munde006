@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/immaculate-munde/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto: immaculatemunde@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?logo=gmail" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-🛠️ *Currently learning:* React.js, TailwindCSS
+🛠️ *Currently learning:* React.js, TailwindCSS, HTML, CSS
 
 ---
 
@@ -62,11 +62,11 @@
 <!-- CONNECT SECTION -->
 ## 🌐 Let's Connect
 
-If you’re a recruiter, mentor, or fellow learner—feel free to connect with me!
+If you’re a recruiter, mentor, or fellow learner, feel free to connect with me!
 
 - 💼 LinkedIn: [immaculate-munde](https://www.linkedin.com/in/immaculate-munde/)
 - 📧 Email: immaculatemunde@gmail.com
-- 🌐 Portfolio (https://sites.google.com/view/immaculatemunde/home )
+- 🌐 Portfolio (Coming soon! )
 
 ---
 
